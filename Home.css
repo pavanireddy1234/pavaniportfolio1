@@ -1,0 +1,12 @@
+/* src/pages/Home.css */
+.home {
+    background-image: url('../assets/background.jpeg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  
